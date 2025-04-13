@@ -14,7 +14,7 @@ on:
         package_version:
           description: '这里是包版本'
           required: false
-          default: 'packages-24.10'  
+          default: 'packages-21.02'  
 
 jobs:
   build:
